@@ -6,8 +6,8 @@
 ## Habilidades
 - Lenguajes: Java, Python  
 - Backend: Spring Boot, APIs REST  
-- Bases de datos: SQL  
+- Bases de datos: SQL (PostgreSQL, MySQL, SQL Server), NoSQL (DynamoDB). 
 - Control de versiones: Git & GitHub  
 - Testing de APIs: Postman  
 - Cloud: Fundamentos de AWS  
-- Análisis de datos: Power BI, Data Analytics  
+- Análisis de datos: Power BI, Excel Intermedio
