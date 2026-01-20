@@ -3,7 +3,7 @@
 💻 En formación en desarrollo backend, cloud computing y análisis de datos.                                                                                                                                                                                                                         
 🚀 Enfocado en construir bases sólidas y proyectos reales
 
-## 🧠 Conocimientos
+## Habilidades
 - Lenguajes: Java, Python  
 - Backend: Spring Boot, APIs REST  
 - Bases de datos: SQL  
