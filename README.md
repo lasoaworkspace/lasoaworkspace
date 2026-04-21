@@ -1,4 +1,4 @@
-#  Hola, me llamo Diego — Estudiante de Ingeniería de Sistemas | Especializado en Automatización & Análisis de Datos 👋
+#  Hola, soy Estudiante de Ingeniería de Sistemas | Especializado en Automatización & Análisis de Datos 👋
 
 <div align="justify">
 
@@ -30,10 +30,5 @@ Soy un apasionado de conectar herramientas, datos y lógica para construir flujo
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-  ## 📫 Contáctame
-
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/diego-segovia](https://www.linkedin.com/in/diego-segovia)
-* 🚀 **Estado actual:** Buscando **Prácticas Pre-Profesionales (Híbridas o Remotas)** en roles de Análisis de Datos, BI o áreas de Automatización.
-
+  
   > *Este repo es mi “cuaderno de experimentos” — aquí pongo lo que construyo
