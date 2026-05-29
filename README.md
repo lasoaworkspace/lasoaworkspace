@@ -26,7 +26,7 @@ Soy un apasionado de conectar herramientas, datos y lógica para construir flujo
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 * **☁️ Cloud & Herramientas** <br>
-  ![AWS](https://img.shields.io/badge/Fundamentos_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
