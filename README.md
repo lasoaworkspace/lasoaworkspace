@@ -1,8 +1,12 @@
-#  Hola, soy Estudiante de Ingeniería de Sistemas | Especializado en Automatización & Análisis de Datos 👋
+#  Hola, soy Estudiante de Ingeniería de Sistemas 👋
 
 <div align="justify">
 
-Soy un apasionado de conectar herramientas, datos y lógica para construir flujos que *realmente* ahorren tiempo y tomen decisiones. Me especializo en **automatizar y optimizar procesos**, integrando herramientas de análisis de datos con tecnologías modernas. Aunque mi pasión principal es la automatización de flujos de trabajo, me interesa mucho aplicar estas habilidades en roles de **Análisis de Datos**, creando sistemas que no solo procesen información, sino que agilicen la toma de decisiones de inicio a fin.
+## Sobre mí
+
+Estudiante de Ingeniería de Sistemas, con experiencia en análisis de datos e interés por comprender cómo funcionan los sistemas y cómo la tecnología puede ayudar a resolver problemas y mejorar procesos.
+
+En este espacio comparto proyectos personales y académicos, exploro distintas tecnologías y pongo en práctica lo que voy aprendiendo.
 
 </div>
 
